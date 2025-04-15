@@ -1,0 +1,30 @@
+*{
+background-color: black;
+Text-align:center;
+}
+h1 {
+ color: white;
+ Font-family: Verdana;
+ Font-size: 50px;
+ Font-weight: normal:
+ Text-align: center;
+}
+[href]{
+color: Aquamarine;
+Font-size: 16px;
+}
+h3{
+Font-family: Verdana;
+Font-weight: 300;
+Font-size: 42px;
+color: white;
+}
+p{
+Font-family:Verdana;
+Font-size:21px;
+color: grey;
+}
+.footer{
+Text-align: right;
+color:grey;
+}
