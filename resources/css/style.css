@@ -12,6 +12,7 @@ h1 {
 [href]{
 color: Aquamarine;
 Font-size: 16px;
+text-align:center;
 }
 h3{
 Font-family: Verdana;
@@ -27,4 +28,7 @@ color: grey;
 .footer{
 Text-align: right;
 color:grey;
+}
+.video{
+align:center;
 }
